@@ -1,2 +1,5 @@
 # Mario-C-SFML
-[<img src="https://img.youtube.com/watch?v=YBks1ztfo_4/maxresdefault.jpg" width="50%">](https://youtu.be/<VIDEO ID>)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=YBks1ztfo_4"><img src="https://www.youtube.com/watch?v=YBks1ztfo_4" alt="IMAGE ALT TEXT"></a>
+</div>
+
